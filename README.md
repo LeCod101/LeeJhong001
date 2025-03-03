@@ -2,14 +2,14 @@
 * 🐧 A student who loves computers
 * 👨‍💻 Experience: Undergraduate student at Jiangxi University of Finance and Economics
 * 🏡 Works: [View Warehouse]([https://github.com/zgx949](https://github.com/zgx949?tab=repositories))
-* 😺 Video: [Bilibili](https://space.bilibili.com/503892162)
-* 💬 Wechat：Greyson949
+* 😺 Video: [Bilibili]([https://space.bilibili.com/503892162](https://space.bilibili.com/447409221))
+* 💬 Wechat：CodeJzi
 * 🤔 Others：
 
 # Last year’s summary（2024） ✨
-- [x] Found a Go development job
+- [x] 
 # This year’s summary（2025） ✨
-- [ ] Getting admitted to the Master's program in AI (preparing for Shanghai University)
+- [ ] 
 
 # About github
 <div>
