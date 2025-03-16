@@ -7,9 +7,9 @@
 * 🤔 Others：
 
 # Last year’s summary（2024） ✨
-- [x] 考研上岸 
+- [x] 考研 
 # This year’s summary（2025） ✨
-- [ing] 找到合适的工作,探索提高生活质量的副业 
+- [x] 找到合适的工作,探索提高生活质量的副业 
 
 # About github
 <div>
