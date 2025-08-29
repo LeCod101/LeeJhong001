@@ -1,6 +1,6 @@
 # Hi there 浅辄 🐘
 * 🐧 A student who loves computers
-* 👨‍💻 Experience: Undergraduate student at Jiangxi University of Finance and Economics
+* 👨‍💻 Experience: Undergraduate student at JL University
 * 🏡 Works: [View Warehouse]([https://github.com/zgx949](https://github.com/zgx949?tab=repositories))
 * 😺 Video: [Bilibili]([https://space.bilibili.com/503892162](https://space.bilibili.com/447409221))
 * 💬 Wechat：CodeJzi
