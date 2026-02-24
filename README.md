@@ -1,41 +1,66 @@
-# Hi, I’m 浅辄 👋
+<h1 align="center">浅辄</h1>
 
-一名热爱计算机与工程实践的开发者。  
-我喜欢把复杂问题拆小、把想法落地成能跑起来的系统，也喜欢记录折腾过程与复盘。
+<p align="center">
+  <b>Backend / Engineering</b> · Java · Go · Python<br/>
+  Building my personal website · Shipping small systems · Writing what I learn
+</p>
 
-- 🧭 关键词：工程化 / 后端 / 分布式 / 复盘总结
-- 🧰 语言：Java · Go · Python
-- 🌱 近期在做：持续学习 + 构建可复用的项目模板/工具链
-- 🎥 Bilibili：<https://space.bilibili.com/447409221>
-- 📦 Repos：<https://github.com/LeeJhong001?tab=repositories>
+<p align="center">
+  <a href="https://github.com/LeeJhong001?tab=repositories">Repos</a> ·
+  <a href="https://space.bilibili.com/447409221">Bilibili</a> ·
+  <a href="mailto:your@email.com">Email</a>
+</p>
 
 ---
 
-## Now / 现在（持续更新）
+## Now
 
-- ✅ 把“学到的东西”整理成可复用笔记和小项目
-- ✅ 练习写更清晰的文档与总结（不写流水账）
+- ✅ 做自己的个人网站（内容 / 作品 / 工具 / 复盘）
 - 🔭 关注：系统设计、性能优化、稳定性、工程效率
+- 🧩 习惯用 checklist 把踩坑变成可复用经验
 
 ---
 
-## Year in Review
+## Projects (2×2)
 
-### 2025 ✨
-- [x] 做自己的个人网站（持续迭代：内容、作品、工具、复盘）
+> 建议每个格子放 1–2 个“代表作”，宁少勿滥。
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Ship / 产品化</h3>
+      <ul>
+        <li><a href="https://github.com/<你>/<repo>"><b>MySite</b></a> — 个人网站：内容 + 作品集 + 工具页</li>
+        <li><a href="https://github.com/<你>/<repo>"><b>Project B</b></a> — 一句话说明它解决了什么问题</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧰 Tools / 工具链</h3>
+      <ul>
+        <li><a href="https://github.com/<你>/<repo>"><b>Template Kit</b></a> — 项目模板/脚手架/工程规范</li>
+        <li><a href="https://github.com/<你>/<repo>"><b>Ops Helper</b></a> — 部署/巡检/自动化小工具</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Notes / 复盘与笔记</h3>
+      <ul>
+        <li><a href="https://github.com/<你>/<repo>"><b>Engineering Notes</b></a> — 复盘、Checklist、踩坑记录</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Labs / 实验与探索</h3>
+      <ul>
+        <li><a href="https://github.com/<你>/<repo>"><b>Distributed Lab</b></a> — 分布式/中间件/性能实验</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## I build / 我会做什么
-
-- 后端服务开发与工程化（结构清晰、可维护）
-- 常见中间件与基础设施：MySQL / PostgreSQL / Redis / MQ / Nginx / Docker / Linux
-- 喜欢把“踩坑”沉淀成 checklist，避免下次重复掉坑
-
----
-
-## Tech Stack（轻量展示）
+## Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
@@ -47,15 +72,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="36" height="36" alt="Redis" />
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
-</p>
-
----
-
-## Contact / 找到我
-
-> 建议不要公开微信号（容易被爬虫抓）。更推荐：邮箱 / Telegram / 公众号 / 个人主页。
-
-- ✉️ Email：your@email.com
-- 💬 Telegram：@your_id（可选）
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker
