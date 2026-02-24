@@ -1,82 +1,61 @@
-# Hi there 浅辄 🐘
-* 🐧 A student who loves computers
-* 👨‍💻 Experience: Undergraduate student at JL University
-* 🏡 Works: [View Warehouse]([https://github.com/zgx949](https://github.com/zgx949?tab=repositories))
-* 😺 Video: [Bilibili]([https://space.bilibili.com/503892162](https://space.bilibili.com/447409221))
-* 💬 Wechat：CodeJzi
-* 🤔 Others：
+# Hi, I’m 浅辄 👋
 
-# Last year’s summary（2024） ✨
-- [x] 考研 
-# This year’s summary（2025） ✨
-- [x] 找到合适的工作,探索提高生活质量的副业 
+一名热爱计算机与工程实践的开发者。  
+我喜欢把复杂问题拆小、把想法落地成能跑起来的系统，也喜欢记录折腾过程与复盘。
 
-# About github
-<div>
-<!--   <a target="_blank" rel="noopener noreferrer nofollow" >
-    <img  height="140px" src="待填" "/>
-  </a> -->
-  <a target="_blank" rel="noopener noreferrer nofollow" >
-    <img  height="140px" src="待填" "/>
-  </a>
-    <a target="_blank" rel="noopener noreferrer nofollow" >
-    <img  height="140px" src="待填" "/>
-  </a>
-</div>
+- 🧭 关键词：工程化 / 后端 / 分布式 / 复盘总结
+- 🧰 语言：Java · Go · Python
+- 🌱 近期在做：持续学习 + 构建可复用的项目模板/工具链
+- 🎥 Bilibili：<https://space.bilibili.com/447409221>
+- 📦 Repos：<https://github.com/LeeJhong001?tab=repositories>
 
-## Technology stack
+---
+
+## Now / 现在（持续更新）
+
+- ✅ 把“学到的东西”整理成可复用笔记和小项目
+- ✅ 练习写更清晰的文档与总结（不写流水账）
+- 🔭 关注：系统设计、性能优化、稳定性、工程效率
+
+---
+
+## Year in Review
+
+### 2025 ✨
+- [x] 做自己的个人网站（持续迭代：内容、作品、工具、复盘）
+
+
+---
+
+## I build / 我会做什么
+
+- 后端服务开发与工程化（结构清晰、可维护）
+- 常见中间件与基础设施：MySQL / PostgreSQL / Redis / MQ / Nginx / Docker / Linux
+- 喜欢把“踩坑”沉淀成 checklist，避免下次重复掉坑
+
+---
+
+## Tech Stack（轻量展示）
+
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java"
-            width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="java"
-            width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="java"
-            width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40"/> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank"
-       rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-             alt="docker" width="40" height="40"/> </a>
-    <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40"
-             height="40"/>
-    </a>
-    <a
-            href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
-            width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-       rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Go" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="36" height="36" alt="Redis" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
 </p>
+
+---
+
+## Contact / 找到我
+
+> 建议不要公开微信号（容易被爬虫抓）。更推荐：邮箱 / Telegram / 公众号 / 个人主页。
+
+- ✉️ Email：your@email.com
+- 💬 Telegram：@your_id（可选）
