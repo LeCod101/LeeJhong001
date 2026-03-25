@@ -1,59 +1,19 @@
+<h2 align="center"> 
+ <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+I+am+LeCod101" alt="Typing SVG" />
+</h2>
+
+
 # Hi, I’m 浅辄 👋
+### 技能树(My Skills)
+![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript,ts,vue,react,redux,nodejs,nestjs,pinia,nuxtjs,nextjs,d3) </br>
+![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git) </br>
+![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,fastapi,php,laravel,lua,electron,express,webpack,vercel,vite)
 
-一名热爱计算机与工程实践的开发者。  
-我喜欢把复杂问题拆小、把想法落地成能跑起来的系统，也喜欢记录折腾过程与复盘。
+### 流水不争先，争的是滔滔不绝<br/>
 
-- 🧭 关键词：工程化 / 后端 / 分布式 / 复盘总结
-- 🧰 语言：Java · Go · Python
-- 🌱 近期在做：持续学习 + 构建可复用的项目模板/工具链
-- 🎥 Bilibili：<https://space.bilibili.com/447409221>
-- 📦 Repos：<https://github.com/LeeJhong001?tab=repositories>
-
----
-
-## Now / 现在（持续更新）
-
-- ✅ 把“学到的东西”整理成可复用笔记和小项目
-- ✅ 练习写更清晰的文档与总结（不写流水账）
-- 🔭 关注：系统设计、性能优化、稳定性、工程效率
-
----
-
-## Year in Review
-
-### 2025 ✨
-- [x] 做自己的个人网站（持续迭代：内容、作品、工具、复盘）
-
-
----
-
-## I build / 我会做什么
-
-- 后端服务开发与工程化（结构清晰、可维护）
-- 常见中间件与基础设施：MySQL / PostgreSQL / Redis / MQ / Nginx / Docker / Linux
-- 喜欢把“踩坑”沉淀成 checklist，避免下次重复掉坑
-
----
-
-## Tech Stack（轻量展示）
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Go" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="36" height="36" alt="Redis" />
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
-</p>
-
----
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=LeCod101&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeCod101&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ## Contact / 找到我
 
-- ✉️ Email：your@email.com
-- 💬 Telegram：@your_id（可选）
+- ✉️ Email：codinglee9181@gmail.com
+- 💬 WeChat：Dev_Advisor
